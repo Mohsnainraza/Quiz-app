@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#container{
+    width: 300px;
+    background-color: #e3e3e3;
+    padding: 20px;
+    text-align: center;
+}
+
+.cards{
+    text-align: center;
+    width: 100%;
+    background-color: #2e2e42;
+
+}
+
+.cards > p{
+    font-size: 20px;
+    color: white;
+}
